@@ -2,7 +2,7 @@
 Analyzing weather data with Flask
 
 ## Overview of analysis
-Working with Temperature data to determine if a Surf and Ice Cream shop is viable year long. Using a sqlite file as out dataset, we created an app in flask to return queries, retrieving the recent temperature data from the months of June and December, then converted those queries into Pandas DataFrames, in order to graph that data using MatPLotLib.
+Working with Temperature data to determine if a Surf and Ice Cream shop is viable year long. Using an sqlite file as out dataset, we created an app in flask to return queries, retrieving the recent temperature data from the months of June and December, then converted those queries into Pandas DataFrames, in order to graph that data using MatPLotLib.
 
 
 ## Results
